@@ -1,4 +1,4 @@
-package Intermediate_Java;
+package Intermediate;
 /*
 Kunal is allowed to go out with his friends only on the
 even days of a given month. Write a program to count the number of

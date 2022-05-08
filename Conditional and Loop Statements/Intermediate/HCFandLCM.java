@@ -1,13 +1,13 @@
-package Intermediate_Java;
+package Intermediate;
 
 import java.util.Scanner;
-    /*
-    LCM (Least Common Multiple):
-    The LCM of two numbers is the smallest positive integer which is divisible by both numbers.
-    HCF (Highest common Factor) or GCD(Greatest common divisor)
-    HCF is also known as Greatest common divisor, HCF of two numbers is the largest positive integer that divides both the numbers.
-    Here, LCM = (n1*n2)/GCD
-     */
+/*
+LCM (Least Common Multiple):
+The LCM of two numbers is the smallest positive integer which is divisible by both numbers.
+HCF (Highest common Factor) or GCD(Greatest common divisor)
+HCF is also known as Greatest common divisor, HCF of two numbers is the largest positive integer that divides both the numbers.
+Here, LCM = (n1*n2)/GCD
+ */
 public class HCFandLCM {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

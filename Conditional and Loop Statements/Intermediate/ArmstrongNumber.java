@@ -1,8 +1,8 @@
-package Intermediate_Java;
-    /*
-        153 is armstrong number bcz,
-        1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153
-     */
+package Intermediate;
+/*
+    153 is armstrong numbe1r bcz,
+    1^3 + 5^3 + 3^3 = 1 + 125 + 27 = 153
+ */
 public class ArmstrongNumber {
     public static void main(String[] args) {
         for (int i = 100; i < 1000; i++) {
@@ -24,6 +24,6 @@ public class ArmstrongNumber {
             return true;
         else
             return false;
-        }
+    }
 
 }

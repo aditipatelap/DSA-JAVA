@@ -1,4 +1,4 @@
-package Intermediate_Java;
+package Intermediate;
 
 public class ReverseString {
     public static void main(String[] args) {

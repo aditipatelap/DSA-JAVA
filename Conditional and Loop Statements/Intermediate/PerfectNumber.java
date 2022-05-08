@@ -1,4 +1,4 @@
-package Intermediate_Java;
+package Intermediate;
 /*
 A number whose sum of factors (excluding the number itself) is equal
 to the number is called a perfect number.

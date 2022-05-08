@@ -1,9 +1,9 @@
-package Intermediate_Java;
-    /*
-        n = 14641
-        rev of n = 14641
-        both are same that's way it's call palindrome number.
-     */
+package Intermediate;
+/*
+    n = 14641
+    rev of n = 14641
+    both are same that's way it's call palindrome number.
+ */
 public class PalindromeNumber {
     public static void main(String[] args) {
         int n = 12355321;

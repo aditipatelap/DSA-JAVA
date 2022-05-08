@@ -1,10 +1,10 @@
-package Intermediate_Java;
+package Intermediate;
 
 import java.util.Scanner;
-    /*
-        Combination --> nCr = n! / (r! * (n-r)!)
-        Permutation --> nPr = n! / (n-r)!
-     */
+/*
+    Combination --> nCr = n! / (r! * (n-r)!)
+    Permutation --> nPr = n! / (n-r)!
+ */
 public class nCr_nPr {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

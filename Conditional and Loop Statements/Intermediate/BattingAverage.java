@@ -1,4 +1,4 @@
-package Intermediate_Java;
+package Intermediate;
 
 public class BattingAverage {
     public static void main(String[] args) {
