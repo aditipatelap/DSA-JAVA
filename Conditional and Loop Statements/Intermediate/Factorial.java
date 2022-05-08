@@ -1,5 +1,7 @@
 package Intermediate_Java;
 
+import java.util.Scanner;
+
 public class Factorial {
     public static void main(String[] args) {
         int num = 5;
@@ -9,4 +11,5 @@ public class Factorial {
         }
         System.out.println(num+"! = "+factorial);
     }
+
 }
